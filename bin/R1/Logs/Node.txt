@@ -1,0 +1,204 @@
+2019-05-18 16:23:39.3778: A node has started an election: 1 (term 1) 
+2019-05-18 16:23:41.4104: New leader!! : 1 with 1 votes 
+2019-05-18 16:23:45.0217: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:23:46.4039: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:23:47.8856: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:23:49.3828: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:23:50.8736: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:23:52.3533: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:24:24.0629: This node is the leader 
+2019-05-18 16:24:24.1415: This node is the leader 
+2019-05-18 16:24:24.1713: This node is the leader 
+2019-05-18 16:24:24.6036: Log Count: 3 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=3 
+2019-05-18 16:24:24.6036: Log Count: 3 -- Target node[nextIndex]: 2 [0]. Entries for node 2 count=3 
+2019-05-18 16:24:24.6364: Successful AE to 3. Setting nextIndex to 0 
+2019-05-18 16:24:24.6364: Successful AE to 2. Setting nextIndex to 0 
+2019-05-18 16:25:16.9106: This node is the leader 
+2019-05-18 16:25:16.9707: This node is the leader 
+2019-05-18 16:25:16.9968: This node is the leader 
+2019-05-18 16:25:18.2113: Log Count: 6 -- Target node[nextIndex]: 2 [3]. Entries for node 2 count=3 
+2019-05-18 16:25:18.2113: Log Count: 6 -- Target node[nextIndex]: 3 [3]. Entries for node 3 count=3 
+2019-05-18 16:25:18.2113: Successful AE to 2. Setting nextIndex to 3 
+2019-05-18 16:25:18.2113: Successful AE to 3. Setting nextIndex to 3 
+2019-05-18 16:26:39.2200: This node is the leader 
+2019-05-18 16:26:39.2727: This node is the leader 
+2019-05-18 16:26:39.3151: This node is the leader 
+2019-05-18 16:26:40.1056: Log Count: 9 -- Target node[nextIndex]: 2 [6]. Entries for node 2 count=3 
+2019-05-18 16:26:40.1056: Log Count: 9 -- Target node[nextIndex]: 3 [6]. Entries for node 3 count=3 
+2019-05-18 16:26:40.1160: Successful AE to 2. Setting nextIndex to 6 
+2019-05-18 16:26:40.1160: Successful AE to 3. Setting nextIndex to 6 
+2019-05-18 16:27:04.4339: Failed AE to 3. Setting nextIndex to 9 
+2019-05-18 16:27:05.4182: Log Count: 9 -- Target node[nextIndex]: 3 [8]. Entries for node 3 count=1 
+2019-05-18 16:27:05.9314: Failed AE to 3. Setting nextIndex to 8 
+2019-05-18 16:27:06.8963: Log Count: 9 -- Target node[nextIndex]: 3 [7]. Entries for node 3 count=2 
+2019-05-18 16:27:07.4289: Failed AE to 3. Setting nextIndex to 7 
+2019-05-18 16:27:08.3952: Log Count: 9 -- Target node[nextIndex]: 3 [6]. Entries for node 3 count=3 
+2019-05-18 16:27:08.9047: Failed AE to 3. Setting nextIndex to 6 
+2019-05-18 16:27:09.8820: Log Count: 9 -- Target node[nextIndex]: 3 [5]. Entries for node 3 count=4 
+2019-05-18 16:27:10.4081: Failed AE to 3. Setting nextIndex to 5 
+2019-05-18 16:27:11.3641: Log Count: 9 -- Target node[nextIndex]: 3 [4]. Entries for node 3 count=5 
+2019-05-18 16:27:11.8879: Failed AE to 3. Setting nextIndex to 4 
+2019-05-18 16:27:12.8637: Log Count: 9 -- Target node[nextIndex]: 3 [3]. Entries for node 3 count=6 
+2019-05-18 16:27:13.3712: Failed AE to 3. Setting nextIndex to 3 
+2019-05-18 16:27:14.3474: Log Count: 9 -- Target node[nextIndex]: 3 [2]. Entries for node 3 count=7 
+2019-05-18 16:27:14.8741: Failed AE to 3. Setting nextIndex to 2 
+2019-05-18 16:27:15.8453: Log Count: 9 -- Target node[nextIndex]: 3 [1]. Entries for node 3 count=8 
+2019-05-18 16:27:16.3559: Failed AE to 3. Setting nextIndex to 1 
+2019-05-18 16:27:17.3190: Log Count: 9 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=9 
+2019-05-18 16:27:17.8519: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:27:18.8157: Log Count: 9 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=9 
+2019-05-18 16:27:18.9217: Successful AE to 3. Setting nextIndex to 0 
+2019-05-18 16:27:18.9217: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:27:20.3023: Log Count: 9 -- Target node[nextIndex]: 3 [8]. Entries for node 3 count=1 
+2019-05-18 16:27:20.3023: Successful AE to 3. Setting nextIndex to 8 
+2019-05-18 16:27:37.3807: This node is the leader 
+2019-05-18 16:27:37.4333: This node is the leader 
+2019-05-18 16:27:37.4683: This node is the leader 
+2019-05-18 16:27:38.1649: Log Count: 12 -- Target node[nextIndex]: 2 [9]. Entries for node 2 count=3 
+2019-05-18 16:27:38.1649: Log Count: 12 -- Target node[nextIndex]: 3 [9]. Entries for node 3 count=3 
+2019-05-18 16:27:38.1766: Successful AE to 2. Setting nextIndex to 9 
+2019-05-18 16:27:38.1766: Successful AE to 3. Setting nextIndex to 9 
+2019-05-18 16:27:46.1338: Failed AE to 3. Setting nextIndex to 12 
+2019-05-18 16:27:47.0995: Log Count: 12 -- Target node[nextIndex]: 3 [11]. Entries for node 3 count=1 
+2019-05-18 16:27:47.6190: Failed AE to 3. Setting nextIndex to 11 
+2019-05-18 16:27:48.5968: Log Count: 12 -- Target node[nextIndex]: 3 [10]. Entries for node 3 count=2 
+2019-05-18 16:27:49.1127: Failed AE to 3. Setting nextIndex to 10 
+2019-05-18 16:27:50.0873: Log Count: 12 -- Target node[nextIndex]: 3 [9]. Entries for node 3 count=3 
+2019-05-18 16:27:50.6041: Failed AE to 3. Setting nextIndex to 9 
+2019-05-18 16:27:51.5664: Log Count: 12 -- Target node[nextIndex]: 3 [8]. Entries for node 3 count=4 
+2019-05-18 16:27:52.0977: Failed AE to 3. Setting nextIndex to 8 
+2019-05-18 16:27:53.0664: Log Count: 12 -- Target node[nextIndex]: 3 [7]. Entries for node 3 count=5 
+2019-05-18 16:27:53.5738: Failed AE to 3. Setting nextIndex to 7 
+2019-05-18 16:27:54.5519: Log Count: 12 -- Target node[nextIndex]: 3 [6]. Entries for node 3 count=6 
+2019-05-18 16:27:55.0739: Failed AE to 3. Setting nextIndex to 6 
+2019-05-18 16:27:56.0438: Log Count: 12 -- Target node[nextIndex]: 3 [5]. Entries for node 3 count=7 
+2019-05-18 16:27:56.5664: Failed AE to 3. Setting nextIndex to 5 
+2019-05-18 16:27:57.5372: Log Count: 12 -- Target node[nextIndex]: 3 [4]. Entries for node 3 count=8 
+2019-05-18 16:27:58.0556: Failed AE to 3. Setting nextIndex to 4 
+2019-05-18 16:27:59.0195: Log Count: 12 -- Target node[nextIndex]: 3 [3]. Entries for node 3 count=9 
+2019-05-18 16:27:59.5485: Failed AE to 3. Setting nextIndex to 3 
+2019-05-18 16:28:00.5092: Log Count: 12 -- Target node[nextIndex]: 3 [2]. Entries for node 3 count=10 
+2019-05-18 16:28:01.0265: Failed AE to 3. Setting nextIndex to 2 
+2019-05-18 16:28:01.9887: Log Count: 12 -- Target node[nextIndex]: 3 [1]. Entries for node 3 count=11 
+2019-05-18 16:28:02.5178: Failed AE to 3. Setting nextIndex to 1 
+2019-05-18 16:28:03.4776: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:03.9959: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:04.9723: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:05.4852: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:06.4682: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:06.9851: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:07.9452: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:08.4815: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:09.4454: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:09.9544: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:10.9315: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:11.4530: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:12.4124: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:12.9386: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:13.9136: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:14.4195: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:15.3972: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:15.9201: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:16.8795: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:17.4044: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:18.3678: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:18.8889: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:19.8628: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:20.3740: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:21.3522: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:21.8701: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:22.8468: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:23.3621: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:24.3240: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:24.8562: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:25.8205: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:26.3320: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:27.3022: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:27.8267: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:28.8026: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:29.3103: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:30.2861: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:30.8119: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:31.7697: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:32.2993: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:33.2580: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:33.7813: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:34.7573: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:35.2678: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:36.2461: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:36.7703: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:37.7255: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:38.2523: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:39.2228: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:39.7320: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:40.7171: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:41.2326: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:42.1918: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:42.7263: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:43.6936: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:44.2061: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:45.1771: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:45.7006: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:46.6716: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:47.1836: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:48.1480: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:48.6789: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:49.6453: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:50.1584: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:51.1339: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:51.6525: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:52.6151: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:53.1452: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:54.1126: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:54.6232: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:55.5974: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:56.1274: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:57.0824: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:57.6014: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:28:58.5704: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:28:59.0911: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:00.0666: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:00.5795: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:01.5572: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:02.0761: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:03.0385: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:03.5631: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:04.5396: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:05.0470: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:06.0250: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:06.5471: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:07.5049: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:08.0342: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:09.0077: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:09.5153: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:10.4900: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:11.0137: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:11.9729: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:12.4984: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:13.4613: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:13.9809: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:14.9561: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:15.4677: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:16.4460: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:16.9610: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:17.9280: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:18.4581: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:19.4262: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:19.9378: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:20.9182: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:21.4404: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:22.3959: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:22.9279: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:23.8954: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:24.4104: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:25.3829: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:25.9032: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:26.8739: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:34.1449: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:34.1449: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:34.1449: Failed AE to 3. Setting nextIndex to 0 
+2019-05-18 16:29:34.1449: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:34.1449: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:34.1449: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:34.3182: Log Count: 12 -- Target node[nextIndex]: 3 [0]. Entries for node 3 count=12 
+2019-05-18 16:29:35.5049: Node 1 started 

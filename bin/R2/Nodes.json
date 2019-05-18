@@ -1,0 +1,16 @@
+{
+  "CurrentNode": {
+    "BaseUrl":"http://localhost:10002" ,
+    "Id": 2
+  },
+  "Nodes": [
+    {
+      "BaseUrl": "http://localhost:10001",
+      "Id": 1
+    },
+    {
+      "BaseUrl": "http://localhost:10003",
+      "Id": 3
+    }
+  ]
+}

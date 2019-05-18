@@ -1,0 +1,6 @@
+2019-05-18 16:23:36.1394 Info Message Template Auto Format enabled
+2019-05-18 16:23:36.1889 Info Adding target FileTarget(Name=File)
+2019-05-18 16:23:36.1922 Info Adding target ConsoleTarget(Name=Console)
+2019-05-18 16:23:36.2204 Info Found 18 configuration items
+2019-05-18 16:29:35.5049 Info AppDomain Shutting down. Logger closing...
+2019-05-18 16:29:35.5251 Info Logger has been shut down.
